@@ -9,7 +9,10 @@ environment:
 
 dependencies:
   photo_view: ^0.14.0
-  image_gallery_saver: ^2.0.3
+  image_gallery_saver:
+    git:
+      url: https://github.com/knottx/image_gallery_saver.git
+      ref: main
   readmore: ^2.2.0
   dio: ^5.4.0
   flutter:
