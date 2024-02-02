@@ -11,8 +11,8 @@ dependencies:
   photo_view: ^0.14.0
   image_gallery_saver:
     git:
-      url: https://github.com/knottx/image_gallery_saver.git
-      ref: main
+      url: https://github.com/quoc-huynh-cosee/image_gallery_saver.git
+      ref: agp-8
   readmore: ^2.2.0
   dio: ^5.4.0
   flutter:
